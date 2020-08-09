@@ -21,9 +21,8 @@ var facts = [
 	"He hated the sound of his own voice"
 ];
 
-johnLennonFacts function = function (factsArray) {
-  
-  var i = 0;
+var johnLennonFacts = function (factsArray) {
+	var i = 0;
 	var arrayCounter = factsArray.length
 	var newFactsArray = [];
 
