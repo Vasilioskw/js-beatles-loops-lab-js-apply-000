@@ -1,6 +1,5 @@
 // add solution here
-function theBeatlesPlay(musicians)
-function theBeatlesPlay(instruments)
+function theBeatlesPlay(musicians, instruments)
 
     facts = [
       "He was the last Beatle to learn to drive",
