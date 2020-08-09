@@ -1,3 +1,3 @@
 // add solution here
-function johnLennonFacts(string)
+function theBeatlesPlay(musicians instruments)
 var string = ["Saab", "Volvo", "BMW"];
