@@ -22,4 +22,7 @@ var facts = [
 
 johnLennonFacts function = function (factsArray) {
   
+  var i = 0;
+	var arrayCounter = factsArray.length
+	var newFactsArray = [];
 
