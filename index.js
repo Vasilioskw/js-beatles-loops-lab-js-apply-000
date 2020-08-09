@@ -12,5 +12,7 @@ var theBeatlesPlay = function (singersArray, instrumentsArray) {
 	return(collect);
 };
 
-theBeatlesPlay(musicians, instruments)
-const theBeatlesPlay= ["John Lennon plays Guitar", "Paul McCartney plays Bass Guitar", "George Harrison plays Lead Guitar", "Ringo Starr plays Drums"];
+theBeatlesPlay(singers, instruments);
+
+var facts = ["John Lennon plays Guitar", "Paul McCartney plays Bass Guitar", "George Harrison plays Lead Guitar", "Ringo Starr plays Drums"];
+
