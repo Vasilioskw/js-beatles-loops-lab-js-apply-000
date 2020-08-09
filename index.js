@@ -25,3 +25,10 @@ var johnLennonFacts = function (factsArray) {
 	var i = 0;
 	var arrayCounter = factsArray.length
 	var newFactsArray = [];
+
+	while (arrayCounter > 0) {
+		newFactsArray.push(factsArray[i] + "!!!");
+		i++;
+		arrayCounter--;
+	}
+	return(newFactsArray);
