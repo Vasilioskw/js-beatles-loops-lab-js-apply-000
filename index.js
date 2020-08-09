@@ -12,5 +12,4 @@ var theBeatlesPlay = function (singersArray, instrumentsArray) {
 	return(collect);
 };
 
-johnLennonFacts(string);
-const johnLennonFacts = []
+theBeatlesPlay(musicians, instruments)
