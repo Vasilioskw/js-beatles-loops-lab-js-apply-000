@@ -1,3 +1,3 @@
 // add solution here
 function johnLennonFacts(string)
-var cars = ["Saab", "Volvo", "BMW"];
+var string = ["Saab", "Volvo", "BMW"];
