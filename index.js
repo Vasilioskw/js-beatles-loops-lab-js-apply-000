@@ -1,5 +1,6 @@
 // add solution here
-function theBeatlesPlay(musicians, instruments)
+const singers = ["John Lennon", "Ringo Star", "Paul McCartney", "Dizzy"];
+const instruments = ["guitar", "drums", "piano", "trumpet"];
 
     facts = [
       "He was the last Beatle to learn to drive",
