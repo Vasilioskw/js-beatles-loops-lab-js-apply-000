@@ -20,5 +20,6 @@ var facts = [
 	"He was a choir boy and boy scout",
 	"He hated the sound of his own voice"
 
-johnLennonFacts function = var facts Array 
+johnLennonFacts function = function (factsArray) {
+  
 
