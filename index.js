@@ -16,5 +16,5 @@ theBeatlesPlay(singers, instruments);
 
 var facts = ["John Lennon plays Guitar", "Paul McCartney plays Bass Guitar", "George Harrison plays Lead Guitar", "Ringo Starr plays Drums"];
 
-johnLennonFacts(String)
+johnLennonFacts function = var facts Array 
 
