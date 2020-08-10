@@ -14,7 +14,7 @@ var theBeatlesPlay = function (singersArray, instrumentsArray) {
 
 theBeatlesPlay(singers, instruments);
 
-var facts = [i<15, i=15, i++
+var facts = [
 	"He was the last Beatle to learn to drive",
 	"He was never a vegetarian",
 	"He was a choir boy and boy scout",
@@ -36,3 +36,5 @@ var johnLennonFacts = function (factsArray) {
 	johnLennonFacts(facts);
 	var facts = function(num)
 	var arr= []
+	
+	
