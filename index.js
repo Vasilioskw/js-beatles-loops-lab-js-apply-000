@@ -38,7 +38,7 @@ var johnLennonFacts = function (factsArray) {
 	var arr= []
 	num++;
 	
-	if (num === 17) {
+	if (num === 18) {
 		return("I love the Beatles!");
 	}
 
