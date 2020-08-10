@@ -32,3 +32,5 @@ var johnLennonFacts = function (factsArray) {
 		arrayCounter--;
 	}
 	return(newFactsArray);
+	
+	
