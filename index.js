@@ -35,4 +35,4 @@ var johnLennonFacts = function (factsArray) {
 	
 	johnLennonFacts(facts);
 	var facts = function(num)
-	
+	var arr= []
