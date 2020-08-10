@@ -36,5 +36,7 @@ var johnLennonFacts = function (factsArray) {
 	johnLennonFacts(facts);
 	var facts = function(num)
 	var arr= []
-	
+	if (num === 15) {
+		return("I love the Beatles!");
+		if (num === )
 	
