@@ -4,10 +4,11 @@
 const singers = ["John Lennon", "Ringo Star", "Paul McCartney", "Dizzy"];
 const instruments = ["guitar", "drums", "piano", "trumpet"];
 
-var theBeatlesPlay = function (singersArray, instrumentsArray) {
+
+var theBeatlesPlay = function (musiciansArray, instrumentsArray) {
 	var collect = [];
-	for (var i = 0; i<singers.length; i++) {
-	collect.push(singersArray[i] + " plays " + instrumentsArray[i]);
+	for (var i = 0; i<musiciansArray.length; i++) {
+	collect.push(musiciansArray[i] + " plays " + instrumentsArray[i]);
 	}
 	return(collect);
 };
@@ -32,22 +33,24 @@ var johnLennonFacts = function (factsArray) {
 		arrayCounter--;
 	}
 	return(newFactsArray);
-	
-	johnLennonFacts(facts);
-	var facts = function(num)
-	var arr= []
+};
+
+johnLennonFacts(facts);
+
+var iLoveTheBeatles = function (num){
+	var arr = [];
 	num++;
-	
+
 	if (num === 18) {
 		return("I love the Beatles!");
 	}
 
-var i = 0;
+	var i = 0;
 	do {
 		arr.push("I love the Beatles!");
 		i++;
 
-} while (i < num);
+	} while (i < num);
 
 	return(arr);
 }
