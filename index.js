@@ -51,4 +51,4 @@ var johnLennonFacts = function (factsArray) {
 
 	return(arr);
 	
-iLoveTheBeatles(4);
+iLoveTheBeatles(2);
