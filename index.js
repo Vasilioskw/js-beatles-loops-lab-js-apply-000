@@ -42,7 +42,7 @@ var johnLennonFacts = function (factsArray) {
 		return("I love the Beatles!");
 	}
 
-	if var i = 0;
+var i = 0;
 	do {
 		arr.push("I love the Beatles!");
 		i++;
