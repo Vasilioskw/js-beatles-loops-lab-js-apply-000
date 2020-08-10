@@ -33,4 +33,5 @@ var johnLennonFacts = function (factsArray) {
 	}
 	return(newFactsArray);
 	
-	johnLennonFacts(facts)
+	johnLennonFacts(facts);
+	
